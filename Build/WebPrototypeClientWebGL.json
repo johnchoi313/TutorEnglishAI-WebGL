@@ -1,0 +1,12 @@
+{
+"companyName": "Waseda-Choitek",
+"productName": "Web Prototype Client",
+"dataUrl": "WebPrototypeClientWebGL.data.unityweb",
+"wasmCodeUrl": "WebPrototypeClientWebGL.wasm.code.unityweb",
+"wasmFrameworkUrl": "WebPrototypeClientWebGL.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Light",
+"backgroundColor": "#FFFFFF"
+}
